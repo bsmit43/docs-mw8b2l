@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-dxj4qq.sesetoto.cyou/sitemap.xml
